@@ -1,0 +1,11 @@
+{
+  "name": "onefold-dom",
+  "main": "dist/onefold-dom.js",
+  "description": "Tiny library providing DOM utility methods.",
+  "authors": ["Ben Schulz (https://github.com/benschulz)"],
+  "keywords": ["util"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/benschulz/onefold-dom.git"
+  }
+}

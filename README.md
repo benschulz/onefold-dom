@@ -1,0 +1,1 @@
+Tiny library providing DOM utility methods.
