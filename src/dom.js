@@ -10,12 +10,6 @@ define(['./internal'], function (internal) {
             'element': {
                 'closest': internal.element.closest,
                 'matches': internal.element.matches
-            },
-
-            'classes': {
-                'add': internal.classes.add,
-                'isPresent': internal.classes.isPresent,
-                'remove': internal.classes.remove
             }
         }
     };
