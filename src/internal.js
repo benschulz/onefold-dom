@@ -20,7 +20,7 @@ define([], function () {
     }
 
     var Element = window.Element;
-    var matches = Element.prototype.webkitMatchesSelector || Element.prototype.mozMatchesSelector || Element.prototype.msMatchesSelector;
+    var matches = Element.prototype.webkitMatchesSelector || Element.prototype.mozMatchesSelector || Element.prototype.msMatchesSelector || Element.prototype.matches;
 
     function closest(element, selector) {
         do {
